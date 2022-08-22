@@ -15,7 +15,7 @@ public class Book {
         return nameBook;
     }
 
-    public String getLivro() {
+    public String getBook() {
         return author + " " + nameBook + " " + String.valueOf(yearPublication);
     }
 
